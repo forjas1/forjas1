@@ -56,7 +56,7 @@ Seeking opportunities in:
 
 ## 🎓 Education & Training
 
-- Doctor of Business Administration (DBA) – Organizational Leadership (In Progress)
+- Doctor of Business Administration (DBA) – Organizational Leadership (ABD)
 - Master of Business Administration – Project Management
 - Bachelor of Science in Business Administration – Logistics
 - Google Cybersecurity Professional Certificate
@@ -82,4 +82,4 @@ Seeking opportunities in:
 ## 📫 Connect with Me
 
 - GitHub: https://github.com/forjas1
-- LinkedIn: *(Add your LinkedIn URL here)*
+- LinkedIn: https://www.linkedin.com/in/jason-2389-ford?trk=contact-info
