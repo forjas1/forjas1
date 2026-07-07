@@ -61,12 +61,19 @@ Seeking opportunities in:
 - Bachelor of Science in Business Administration – Logistics
 - Google Cybersecurity Professional Certificate
 - My Computer Career Cyber Warrior Program (In Progress)
-- Graduate Certificate in Executive Leadership in Information Assurance (Planned)
+- Palo Alto Networks Certified Cybersecurity
+Practitioner (Planned)
+- Becoming a Cybersecurity Consultant (Planned)
+- Advanced Network Security Specialization (Planned)
+- Master's Certificate in Executive Leadership in Information Assurance (Planned)
 
 ## 📂 Featured Portfolio
 
 - Google Cybersecurity Program
 - Cyber Warrior Program
+- Cybersecurity Practitioner
+- Cybersecurity Consultant
+- Advanced Network Security
 - Executive Leadership in Information Assurance
 - Home Cyber Lab
 - SOC Analyst Labs
@@ -82,4 +89,4 @@ Seeking opportunities in:
 ## 📫 Connect with Me
 
 - GitHub: https://github.com/forjas1
-- LinkedIn: https://www.linkedin.com/in/jason-2389-ford?trk=contact-info
+- LinkedIn: https://www.linkedin.com/in/jason-2389-ford
