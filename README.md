@@ -61,9 +61,6 @@ Seeking opportunities in:
 - Bachelor of Science in Business Administration – Logistics
 - Google Cybersecurity Professional Certificate
 - My Computer Career Cyber Warrior Program (In Progress)
-- Palo Alto Networks Certified Cybersecurity
-Practitioner (Planned)
-- Becoming a Cybersecurity Consultant (Planned)
 - Advanced Network Security Specialization (Planned)
 - Master's Certificate in Executive Leadership in Information Assurance (Planned)
 
@@ -71,8 +68,6 @@ Practitioner (Planned)
 
 - Google Cybersecurity Program
 - Cyber Warrior Program
-- Cybersecurity Practitioner
-- Cybersecurity Consultant
 - Advanced Network Security
 - Executive Leadership in Information Assurance
 - Home Cyber Lab
