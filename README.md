@@ -63,6 +63,7 @@ Seeking opportunities in:
 - My Computer Career Cyber Warrior Program (In Progress)
 - Advanced Network Security Specialization (Planned)
 - Master's Certificate in Executive Leadership in Information Assurance (Planned)
+- Complete Hands-On Cybersecurity Analyst (Planned)
 
 ## 📂 Featured Portfolio
 
@@ -70,6 +71,7 @@ Seeking opportunities in:
 - Cyber Warrior Program
 - Advanced Network Security
 - Executive Leadership in Information Assurance
+- Complete Hands-On Cybersecurity Course
 - Home Cyber Lab
 - SOC Analyst Labs
 - Incident Response
