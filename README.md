@@ -1,89 +1,91 @@
-# Hi, I'm Jason Ford 👋
+Hi, I’m Jason Ford 👋
 
-U.S. Navy Veteran with 16 years of logistics leadership transitioning into cybersecurity and information assurance. This portfolio showcases hands-on projects, labs, technical documentation, and security research completed through the Google Cybersecurity Professional Certificate, My Computer Career Cyber Warrior Program, and the Graduate Certificate in Executive Leadership in Information Assurance.
+U.S. Navy Veteran with 16 years of logistics leadership and a strong background in supply chain operations, project management, and organizational leadership. This portfolio showcases hands-on projects, technical documentation, data analysis, logistics planning, supply chain optimization, and cybersecurity projects completed through the Google Cybersecurity Professional Certificate, Computer Minds Logistics & Supply Chain Management Program, and independent professional development.
 
-My portfolio demonstrates practical experience in security operations, incident response, vulnerability management, digital forensics, governance, risk management, compliance (GRC), cloud security, identity and access management, and cybersecurity leadership. Projects are supported by home lab exercises, scripting, technical reports, and real-world security scenarios.
+My portfolio demonstrates practical experience in logistics operations, supply chain management, inventory control, transportation planning, procurement, business analytics, process improvement, cybersecurity fundamentals, governance, risk management, and technical problem-solving. Projects include real-world case studies, technical reports, data analysis, automation scripts, and operational improvement initiatives.
 
-## 🎯 Career Objective
+🎯 Career Objective
 
 Seeking opportunities in:
 
-- Cybersecurity Analyst
-- SOC Analyst
-- Information Assurance
-- Governance, Risk & Compliance (GRC)
-- Cybersecurity Leadership
-- Vulnerability Management
-- Security Operations
+* Logistics Analyst
+* Supply Chain Analyst
+* Logistics Coordinator
+* Supply Chain Operations
+* Inventory & Materials Management
+* Transportation & Distribution
+* Business Operations Analyst
+* Process Improvement
+* Data Analytics
+* Cybersecurity Analyst
 
-## 🛠 Technical Skills
+🛠 Technical Skills
 
-- Windows Administration
-- Linux
-- Windows Server
-- Active Directory
-- Microsoft Defender
-- Azure
-- Wireshark
-- Nmap
-- Splunk
-- SQL
-- Python
-- PowerShell
-- Bash
-- Network Security
-- Threat Hunting
-- Vulnerability Management
-- Incident Response
-- Identity & Access Management (IAM)
-- Cloud Security
-- Digital Forensics
+* Supply Chain Management
+* Logistics Operations
+* Inventory Management
+* Procurement
+* Transportation Management
+* Warehouse Operations
+* Process Improvement
+* Microsoft Excel
+* SQL
+* Power BI
+* Python
+* Windows Administration
+* Linux
+* Active Directory
+* Microsoft Defender
+* Wireshark
+* Nmap
+* Splunk
+* PowerShell
+* Data Analysis
 
-## 🛡 Leadership & Governance
+📊 Logistics & Business Expertise
 
-- Information Assurance
-- Cybersecurity Governance
-- Enterprise Risk Management
-- Governance, Risk & Compliance (GRC)
-- NIST Cybersecurity Framework (CSF)
-- ISO/IEC 27001 Fundamentals
-- Security Policy Development
-- Security Auditing
-- Business Continuity Planning
-- Disaster Recovery Planning
-- Executive Cybersecurity Strategy
-- Third-Party Risk Management
+* Supply Chain Planning
+* Demand Planning
+* Inventory Control
+* Procurement & Purchasing
+* Transportation & Distribution
+* Warehouse Management
+* Process Optimization
+* Lean Operations
+* Business Analytics
+* Project Management
+* Risk Management
+* Performance Metrics (KPIs)
+* Continuous Improvement
 
-## 🎓 Education & Training
+🎓 Education & Training
 
-- Doctor of Business Administration (DBA) – Organizational Leadership (ABD)
-- Master of Business Administration – Project Management
-- Bachelor of Science in Business Administration – Logistics
-- Google Cybersecurity Professional Certificate
-- My Computer Career Cyber Warrior Program (In Progress)
-- Advanced Network Security Specialization (Planned)
-- Master's Certificate in Executive Leadership in Information Assurance (Planned)
-- Complete Hands-On Cybersecurity Analyst (Planned)
+* Doctor of Business Administration (DBA) – Organizational Leadership (ABD)
+* Master of Business Administration – Project Management
+* Bachelor of Science in Business Administration – Logistics
+* Logistics & Supply Chain Management – Computer Minds (In Progress)
+* Google Cybersecurity Professional Certificate
+* Complete Hands-On Cybersecurity Analyst (Planned)
 
-## 📂 Featured Portfolio
+📂 Featured Portfolio
 
-- Google Cybersecurity Program
-- Cyber Warrior Program
-- Advanced Network Security
-- Executive Leadership in Information Assurance
-- Complete Hands-On Cybersecurity Course
-- Home Cyber Lab
-- SOC Analyst Labs
-- Incident Response
-- Threat Hunting
-- Governance, Risk & Compliance
-- Security Auditing
-- Cloud Security
-- Python Security Scripts
-- PowerShell Automation
-- SQL Security Projects
+* Logistics & Supply Chain Projects
+* Supply Chain Analytics
+* Inventory Optimization
+* Transportation Planning
+* Procurement & Operations
+* Business Analytics
+* Process Improvement
+* Google Cybersecurity Program
+* Home Cyber Lab
+* SOC Analyst Labs
+* Incident Response
+* Governance, Risk & Compliance
+* Python Automation
+* SQL Projects
+* Power BI Dashboards
 
-## 📫 Connect with Me
+📫 Connect with Me
 
-- GitHub: https://github.com/forjas1
-- LinkedIn: https://www.linkedin.com/in/jason-2389-ford
+* GitHub: https://github.com/forjas1
+* Email: fordj3298@gmail.com
